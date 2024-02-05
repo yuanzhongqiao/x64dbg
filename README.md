@@ -2,87 +2,94 @@
 
 <img width="100" src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png"/>
 
-<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-x64dbg" class="anchor" aria-hidden="true" tabindex="-1" href="#x64dbg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x64dbg</font></font></h1>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png"><img width="100" src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://ci.appveyor.com/project/mrexodia/x64dbg" rel="nofollow"><img src="https://camo.githubusercontent.com/161245a5af05c1fc0b81c326172ed11653812c703cbb6c5141c4e9192e1bc0d2/68747470733a2f2f63692e6170707665796f722e636f6d2f6170692f70726f6a656374732f7374617475732f68316a3438397161316d7836376530683f7376673d74727565" alt="构建状态" data-canonical-src="https://ci.appveyor.com/api/projects/status/h1j489qa1mx67e0h?svg=true" style="max-width: 100%;"></a> <a href="https://translate.x64dbg.com" rel="nofollow"><img src="https://camo.githubusercontent.com/9ed22c1160baa0a3cc0bf93a772ee9f6e8bbb6e8d9561adc7e7db683471ac9ad/68747470733a2f2f64333232637174353834626f346f2e636c6f756466726f6e742e6e65742f7836346462672f6c6f63616c697a65642e737667" alt="克罗丁" data-canonical-src="https://d322cqt584bo4o.cloudfront.net/x64dbg/localized.svg" style="max-width: 100%;"></a> <a href="https://sourceforge.net/projects/x64dbg/files/latest/download" rel="nofollow"><img src="https://camo.githubusercontent.com/9be63c16288cae9472abc7631c0b60c0ee7552658ae4b1e7b8da48bcb0c58691/68747470733a2f2f696d672e736869656c64732e696f2f736f75726365666f7267652f646d2f7836346462672e737667" alt="下载x64dbg" data-canonical-src="https://img.shields.io/sourceforge/dm/x64dbg.svg" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://invite.gg/x64dbg" rel="nofollow"><img src="https://camo.githubusercontent.com/e8f7aee9c496e4c977e85a99472376a4a6e16dcf0f1589a2182d373e3808d065/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230446973636f72642d677265656e2e737667" alt="不和谐" data-canonical-src="https://img.shields.io/badge/chat-on%20Discord-green.svg" style="max-width: 100%;"></a> <a href="https://telegram.me/x64dbg" rel="nofollow"><img src="https://camo.githubusercontent.com/d235ddefb8e7c95d86b09e527e3aed4bd9f43310c8cec8b9a8bb02151301d684/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d2532306f6e25323054656c656772616d2d626c75652e737667" alt="电报" data-canonical-src="https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg" style="max-width: 100%;"></a> <a href="https://gitter.im/x64dbg/x64dbg" rel="nofollow"><img src="https://camo.githubusercontent.com/c09f4c8f714609ddb48c377a4431de22f578ed7a0e3436b098942787d56902a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e2532304769747465722d6c69676874736561677265656e2e737667" alt="网格" data-canonical-src="https://img.shields.io/badge/chat-on%20Gitter-lightseagreen.svg" style="max-width: 100%;"></a> <a href="https://riot.im/app/#/room/#x64dbg:matrix.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8296d334a67e62e453e0fe37df0c6346a5e729afd30f0faf09eab5bb3b8dae8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e2532304d61747269782d79656c6c6f77677265656e2e737667" alt="矩阵" data-canonical-src="https://img.shields.io/badge/chat-on%20Matrix-yellowgreen.svg" style="max-width: 100%;"></a></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于 Windows 的开源二进制调试器，旨在对您没有源代码的可执行文件进行恶意软件分析和逆向工程。有许多可用的功能和一个全面的</font></font><a href="https://plugins.x64dbg.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插件系统</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来添加您自己的功能。您可以在</font></font><a href="https://x64dbg.com/blog" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上找到更多信息</font><font style="vertical-align: inherit;">！</font></font></p>
-<h2 tabindex="-1" dir="auto"><a id="user-content-screenshots" class="anchor" aria-hidden="true" tabindex="-1" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/x64dbg/x64dbg/blob/development/.github/screenshots/cpu-light.png"><img src="/x64dbg/x64dbg/raw/development/.github/screenshots/cpu-light.png" alt="主界面（亮灯）" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/x64dbg/x64dbg/blob/development/.github/screenshots/cpu-dark.png"><img src="/x64dbg/x64dbg/raw/development/.github/screenshots/cpu-dark.png" alt="主界面（深色）" style="max-width: 100%;"></a></p>
-<table>
-<thead>
-<tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/x64dbg/x64dbg/blob/development/.github/screenshots/graph-light.png"><img src="/x64dbg/x64dbg/raw/development/.github/screenshots/graph-light.png" alt="图形" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/x64dbg/x64dbg/blob/development/.github/screenshots/memory-map-light.png"><img src="/x64dbg/x64dbg/raw/development/.github/screenshots/memory-map-light.png" alt="内存映射" style="max-width: 100%;"></a></th>
-</tr>
-</thead>
-</table>
-<h2 tabindex="-1" dir="auto"><a id="user-content-installation--usage" class="anchor" aria-hidden="true" tabindex="-1" href="#installation--usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装与使用</font></font></h2>
-<ol dir="auto">
-<li><font style="vertical-align: inherit;"></font><a href="https://github.com/x64dbg/x64dbg/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从GitHub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://sourceforge.net/projects/x64dbg/files/snapshots" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SourceForge</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://osdn.net/projects/x64dbg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OSDN</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载快照</font><font style="vertical-align: inherit;">并将其提取到您的用户具有写入权限的位置。</font></font></li>
-<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（可选）</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于</font></font><code>x96dbg.exe</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注册 shell 扩展并向桌面添加快捷方式。</font></font></li>
-<li><font style="vertical-align: inherit;"></font><code>x32\x32dbg.exe</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想调试 32 位可执行文件或</font></font><code>x64\x64dbg.exe</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调试 64 位可执行文件，</font><font style="vertical-align: inherit;">您现在可以运行！</font><font style="vertical-align: inherit;">如果您不确定，您可以随时运行</font></font><code>x96dbg.exe</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并选择您的架构。</font></font></li>
-</ol>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以</font><font style="vertical-align: inherit;">通过几个简单的步骤自行</font></font><a href="https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译x64dbg！</font></font></a><font style="vertical-align: inherit;"></font></p>
-<h2 tabindex="-1" dir="auto"><a id="user-content-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></h2>
-<p dir="auto"><a href="https://sponsors.x64dbg.com/malcore" rel="nofollow"><img src="/x64dbg/x64dbg/raw/development/.github/sponsors/malcore.png" alt="" style="max-width: 100%;"></a></p>
+[![Build status](https://ci.appveyor.com/api/projects/status/h1j489qa1mx67e0h?svg=true)](https://ci.appveyor.com/project/mrexodia/x64dbg) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/x64dbg/localized.svg)](https://translate.x64dbg.com) [![Download x64dbg](https://img.shields.io/sourceforge/dm/x64dbg.svg)](https://sourceforge.net/projects/x64dbg/files/latest/download)
+
+[![Discord](https://img.shields.io/badge/chat-on%20Discord-green.svg)](https://invite.gg/x64dbg) [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/x64dbg) [![Gitter](https://img.shields.io/badge/chat-on%20Gitter-lightseagreen.svg)](https://gitter.im/x64dbg/x64dbg) [![Matrix](https://img.shields.io/badge/chat-on%20Matrix-yellowgreen.svg)](https://riot.im/app/#/room/#x64dbg:matrix.org)
+
+An open-source binary debugger for Windows, aimed at malware analysis and reverse engineering of executables you do not have the source code for. There are many features available and a comprehensive [plugin system](https://plugins.x64dbg.com) to add your own. You can find more information on the [blog](https://x64dbg.com/blog)!
+
+## Screenshots
+
+![main interface (light)](.github/screenshots/cpu-light.png)
+
+![main interface (dark)](.github/screenshots/cpu-dark.png)
+
+| ![graph](.github/screenshots/graph-light.png) | ![memory map](.github/screenshots/memory-map-light.png) |
+| :--: | :--: |
+
+## Installation & Usage
+
+1. Download a snapshot from [GitHub](https://github.com/x64dbg/x64dbg/releases), [SourceForge](https://sourceforge.net/projects/x64dbg/files/snapshots) or [OSDN](https://osdn.net/projects/x64dbg) and extract it in a location your user has write access to.
+2. _Optionally_ use `x96dbg.exe` to register a shell extension and add shortcuts to your desktop.
+3. You can now run `x32\x32dbg.exe` if you want to debug a 32-bit executable or `x64\x64dbg.exe` to debug a 64-bit executable! If you are unsure you can always run `x96dbg.exe` and choose your architecture there.
+
+You can also [compile](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project) x64dbg yourself with a few easy steps!
+
+## Sponsors
+
+[![](.github/sponsors/malcore.png)](https://sponsors.x64dbg.com/malcore)
+
 <br>
-<p dir="auto"><a href="https://sponsors.x64dbg.com/telekom" rel="nofollow"><img src="/x64dbg/x64dbg/raw/development/.github/sponsors/telekom.svg" alt="" style="max-width: 100%;"></a></p>
-<h2 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是社区的努力，我们接受拉取请求！</font><font style="vertical-align: inherit;">有关更多信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/x64dbg/x64dbg/blob/development/.github/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档。如果您有任何疑问，您可以随时</font></font><a href="https://x64dbg.com/#contact" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或提出</font></font><a href="https://github.com/x64dbg/x64dbg/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。您可以先看看好</font></font><a href="https://easy.x64dbg.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来开始。</font></font></p>
-<h2 tabindex="-1" dir="auto"><a id="user-content-credits" class="anchor" aria-hidden="true" tabindex="-1" href="#credits"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制作人员</font></font></h2>
-<ul dir="auto">
-<li><font style="vertical-align: inherit;"><a href="https://github.com/x64dbg/TitanEngine"><font style="vertical-align: inherit;">TitanEngine 社区版</font></a><font style="vertical-align: inherit;">的调试器核心</font></font><a href="https://github.com/x64dbg/TitanEngine"><font style="vertical-align: inherit;"></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由</font></font><a href="https://zydis.re" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zydis提供支持的反汇编</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由</font></font><a href="https://github.com/x64dbg/XEDParse"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XEDParse</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/asmjit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">asmjit提供支持的程序集</font></font></a></li>
-<li><font style="vertical-align: inherit;"><a href="https://github.com/NtQuery/Scylla"><font style="vertical-align: inherit;">由Scylla</font></a><font style="vertical-align: inherit;">提供支持的导入重建</font></font><a href="https://github.com/NtQuery/Scylla"><font style="vertical-align: inherit;"></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSON 由</font></font><a href="https://www.digip.org/jansson" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jansson提供支持</font></font></a></li>
-<li><font style="vertical-align: inherit;"><a href="https://bitbucket.org/mrexodia/lz4" rel="nofollow"><font style="vertical-align: inherit;">由lz4</font></a><font style="vertical-align: inherit;">提供支持的数据库压缩</font></font><a href="https://bitbucket.org/mrexodia/lz4" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
-<li><font style="vertical-align: inherit;"><a href="https://www.visualpharm.com" rel="nofollow"><font style="vertical-align: inherit;">VisualPharm</font></a><font style="vertical-align: inherit;">的 Bug 图标</font></font><a href="https://www.visualpharm.com" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">界面图标由</font></font><a href="https://p.yusukekamiyamane.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fugue设计</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站由</font></font><a href="https://tr4ceflow.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tr4ceflow提供</font></font></a></li>
-</ul>
-<h2 tabindex="-1" dir="auto"><a id="user-content-developers" class="anchor" aria-hidden="true" tabindex="-1" href="#developers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发商</font></font></h2>
-<ul dir="auto">
-<li><a href="https://mrexodia.github.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">姆雷克索迪亚</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">西格玛</font></font></li>
-<li><a href="https://blog.tr4ceflow.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">t4ceflow</font></font></a></li>
-<li><a href="https://www.fr33project.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渣滓</font></font></a></li>
-<li><a href="https://github.com/Nukem9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">毁灭</font></font></a></li>
-<li><a href="https://github.com/Herz3h"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赫兹3h</font></font></a></li>
-<li><a href="https://github.com/torusrxxx"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">环面rxxx</font></font></a></li>
-</ul>
-<h2 tabindex="-1" dir="auto"><a id="user-content-code-contributions" class="anchor" aria-hidden="true" tabindex="-1" href="#code-contributions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码贡献</font></font></h2>
-<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/x64dbg/x64dbg/graphs/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到 GitHub 贡献者的详尽列表</font><font style="vertical-align: inherit;">。</font></font></p>
-<h2 tabindex="-1" dir="auto"><a id="user-content-special-thanks" class="anchor" aria-hidden="true" tabindex="-1" href="#special-thanks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢</font></font></h2>
-<ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sigma 用于开发初始 GUI</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有的捐助者！</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大家补充问题！</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我忘记添加到此列表的人</font></font></li>
-<li><a href="https://x64dbg.com/blog/2016/07/09/Looking-for-writers.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客的作者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></li>
-<li><a href="https://forum.exetools.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EXE工具社区</font></font></a></li>
-<li><a href="https://forum.tuts4you.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tuts4You 社区</font></font></a></li>
-<li><a href="https://www.jetbrains.com/resharper" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锐锐</font></font></a></li>
-<li><a href="https://www.coverity.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">覆盖性</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">酸闪</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络鲍勃</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">暗号</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">泰迪·罗杰斯</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">团队深静脉血栓形成</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">迈克尔·D</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">北极</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">艾哈迈德曼苏尔</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_推动者_</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然</font></font></li>
-<li><a href="https://lifeinhex.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯特拉托</font></font></li>
-<li><a href="https://github.com/kobalicek"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科巴利切克</font></font></a></li>
-<li><a href="https://github.com/athre0z"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亚瑟雷0z</font></font></a></li>
-<li><a href="https://github.com/ZehMatt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">采赫马特</font></font></a></li>
-<li><a href="https://twitter.com/fearless0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无畏先生</font></font></a></li>
-<li><a href="https://github.com/JustasMasiulis"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正义魔法</font></font></a></li>
-</ul>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果没有很多人和其他开源项目的帮助，x64dbg 不可能有今天的样子，谢谢！</font></font></p>
-</article></div>
+
+[![](.github/sponsors/telekom.svg)](https://sponsors.x64dbg.com/telekom)
+
+## Contributing
+
+This is a community effort and we accept pull requests! See the [CONTRIBUTING](.github/CONTRIBUTING.md) document for more information. If you have any questions you can always [contact us](https://x64dbg.com/#contact) or open an [issue](https://github.com/x64dbg/x64dbg/issues). You can take a look at the [good first issues](https://easy.x64dbg.com/) to get started.
+
+## Credits
+
+- Debugger core by [TitanEngine Community Edition](https://github.com/x64dbg/TitanEngine)
+- Disassembly powered by [Zydis](https://zydis.re)
+- Assembly powered by [XEDParse](https://github.com/x64dbg/XEDParse) and [asmjit](https://github.com/asmjit)
+- Import reconstruction powered by [Scylla](https://github.com/NtQuery/Scylla)
+- JSON powered by [Jansson](https://www.digip.org/jansson)
+- Database compression powered by [lz4](https://bitbucket.org/mrexodia/lz4)
+- Bug icon by [VisualPharm](https://www.visualpharm.com)
+- Interface icons by [Fugue](https://p.yusukekamiyamane.com)
+- Website by [tr4ceflow](https://tr4ceflow.com)
+
+## Developers
+
+- [mrexodia](https://mrexodia.github.io)
+- Sigma
+- [tr4ceflow](https://blog.tr4ceflow.com)
+- [Dreg](https://www.fr33project.org)
+- [Nukem](https://github.com/Nukem9)
+- [Herz3h](https://github.com/Herz3h)
+- [torusrxxx](https://github.com/torusrxxx)
+
+## Code contributions
+
+You can find an exhaustive list of GitHub contributors [here](https://github.com/x64dbg/x64dbg/graphs/contributors).
+
+## Special Thanks
+
+- Sigma for developing the initial GUI
+- All the donators!
+- Everybody adding issues!
+- People I forgot to add to this list
+- [Writers of the blog](https://x64dbg.com/blog/2016/07/09/Looking-for-writers.html)!
+- [EXETools community](https://forum.exetools.com)
+- [Tuts4You community](https://forum.tuts4you.com)
+- [ReSharper](https://www.jetbrains.com/resharper)
+- [Coverity](https://www.coverity.com)
+- acidflash
+- cyberbob
+- cypher
+- Teddy Rogers
+- TEAM DVT
+- DMichael
+- Artic
+- ahmadmansoor
+- \_pusher\_
+- firelegend
+- [kao](https://lifeinhex.com)
+- sstrato
+- [kobalicek](https://github.com/kobalicek)
+- [athre0z](https://github.com/athre0z)
+- [ZehMatt](https://github.com/ZehMatt)
+- [mrfearless](https://twitter.com/fearless0)
+- [JustMagic](https://github.com/JustasMasiulis)
+
+Without the help of many people and other open-source projects, it would not have been possible to make x64dbg what it is today, thank you!
