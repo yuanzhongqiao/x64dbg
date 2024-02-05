@@ -6,6 +6,8 @@
 
 [![Discord](https://img.shields.io/badge/chat-on%20Discord-green.svg)](https://invite.gg/x64dbg) [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/x64dbg) [![Gitter](https://img.shields.io/badge/chat-on%20Gitter-lightseagreen.svg)](https://gitter.im/x64dbg/x64dbg) [![Matrix](https://img.shields.io/badge/chat-on%20Matrix-yellowgreen.svg)](https://riot.im/app/#/room/#x64dbg:matrix.org)
 
+适用于 Windows 的开源二进制调试器，旨在对您没有源代码的可执行文件进行恶意软件分析和逆向工程。有许多可用的功能和一个全面的插件系统来添加您自己的功能。您可以在博客上找到更多信息！
+
 An open-source binary debugger for Windows, aimed at malware analysis and reverse engineering of executables you do not have the source code for. There are many features available and a comprehensive [plugin system](https://plugins.x64dbg.com) to add your own. You can find more information on the [blog](https://x64dbg.com/blog)!
 
 ## Screenshots
@@ -17,7 +19,13 @@ An open-source binary debugger for Windows, aimed at malware analysis and revers
 | ![graph](.github/screenshots/graph-light.png) | ![memory map](.github/screenshots/memory-map-light.png) |
 | :--: | :--: |
 
-## Installation & Usage
+## Installation & Usage  安装和使用
+
+ 
+1、从GitHub、SourceForge或OSDN下载快照并将其提取到您的用户具有写入权限的位置。
+2、（可选）用于x96dbg.exe注册 shell 扩展并向桌面添加快捷方式。
+3、x32\x32dbg.exe如果您想调试 32 位可执行文件或x64\x64dbg.exe调试 64 位可执行文件，您现在可以运行！如果您不确定，您可以随时运行x96dbg.exe并选择您的架构。
+您还可以通过几个简单的步骤自行编译x64dbg！
 
 1. Download a snapshot from [GitHub](https://github.com/x64dbg/x64dbg/releases), [SourceForge](https://sourceforge.net/projects/x64dbg/files/snapshots) or [OSDN](https://osdn.net/projects/x64dbg) and extract it in a location your user has write access to.
 2. _Optionally_ use `x96dbg.exe` to register a shell extension and add shortcuts to your desktop.
